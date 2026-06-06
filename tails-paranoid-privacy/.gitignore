@@ -1,0 +1,7 @@
+# Echte Bridges niemals committen!
+bridges.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
